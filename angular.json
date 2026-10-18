@@ -72,7 +72,15 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/biltong-on-wheels/"
+              "baseHref": "/biltong-on-wheels/",
+              "optimization": {
+                "scripts": true,
+                "styles": {
+                  "minify": true,
+                  "inlineCritical": true
+                },
+                "fonts": false
+              }
             },
             "development": {
               "optimization": false,
