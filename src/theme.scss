@@ -1,0 +1,34 @@
+/* Generated from sites/biltong-on-wheels/site.json. */
+:root {
+  --bg: #faf6f1;
+  --bg-alt: #f1e7dc;
+  --surface: #ffffff;
+  --ink: #2a1d15;
+  --muted: #6a5a4e;
+  --line: #e8dccf;
+  --accent: #8b5a3c;
+  --accent-strong: #6b4229;
+  --accent-ink: #ffffff;
+  --accent-soft: #f0e0d4;
+  --accent-on-dark: #e3b08f;
+  --dark: #2a1d15;
+  --dark-ink: #fff8f2;
+  --error: #b42318;
+  --font-display: 'Bitter', Georgia, serif;
+  --font-body: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 700;
+  --display-tracking: -0.01em;
+  --radius: 14px;
+  --button-radius: 999px;
+  --hero-position: center;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #2a1d15;
+  --topbar-line: #e8dccf;
+  --product-fit: cover;
+  --product-bg: #faf6f1;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
