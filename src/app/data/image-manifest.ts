@@ -9,7 +9,7 @@ export interface ImageEntry {
 export const IMAGE_MANIFEST = {
   "biltong": {
     "width": 1600,
-    "height": 2236,
+    "height": 2400,
     "widths": [
       480,
       960,
@@ -18,7 +18,7 @@ export const IMAGE_MANIFEST = {
   },
   "bites": {
     "width": 1600,
-    "height": 1128,
+    "height": 1067,
     "widths": [
       480,
       960,
@@ -45,7 +45,7 @@ export const IMAGE_MANIFEST = {
   },
   "hamper": {
     "width": 1600,
-    "height": 1067,
+    "height": 2399,
     "widths": [
       480,
       960,
@@ -54,7 +54,7 @@ export const IMAGE_MANIFEST = {
   },
   "hero": {
     "width": 1600,
-    "height": 1018,
+    "height": 900,
     "widths": [
       480,
       960,
@@ -70,15 +70,17 @@ export const IMAGE_MANIFEST = {
     ]
   },
   "salami": {
-    "width": 265,
-    "height": 220,
+    "width": 1600,
+    "height": 1161,
     "widths": [
-      265
+      480,
+      960,
+      1600
     ]
   },
   "wheels": {
     "width": 1600,
-    "height": 1067,
+    "height": 1135,
     "widths": [
       480,
       960,
